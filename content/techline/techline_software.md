@@ -19,7 +19,7 @@ TIS2000 supports the following languages:
 * Thai
 * Chinese
 
-_Note:_ TIS2000 is superseeded by the GlobalTIS software. 
+_Note:_ TIS2000 is superseded by the GlobalTIS software. 
 
 ## GlobalTIS
 

@@ -6,7 +6,7 @@ sort: 300
 
 The computer connected to the Tech2 is referred to as the 'Techline terminal'. This machine runs the Tech2Win software on top of the Microsoft Windows operating system.
 
-Daniel Clarkson wrote the [Aftermarket Infrastructure Guideline v1.0 PDF](aftermarket_infrastructure_guideline_v1.0.pdf),which was published by [ACdelco](https://www.acdelco.com/) in Januari 2021.
+Daniel Clarkson wrote the [Aftermarket Infrastructure Guideline v1.0 PDF](aftermarket_infrastructure_guideline_v1.0.pdf),which was published by [ACdelco](https://www.acdelco.com/) in January 2021.
 
 ## Introduction
 

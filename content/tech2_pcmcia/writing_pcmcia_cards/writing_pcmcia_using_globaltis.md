@@ -3,7 +3,7 @@ sort: 100
 ---
 # Writing PCMCIA using GlobalTIS
 
-GlobalTIS is a computer-based system used for reprogramming software as well as troubleshouting and diagnostics on vehicle control units. GlobalTIS is used through your web browser and requires a compatible version of Java to be able to work correctly. The system requires a hand-held, programmable diagnostic tool, Tech2, in order to communicate with the vehicle.
+GlobalTIS is a computer-based system used for reprogramming software as well as troubleshooting and diagnostics on vehicle control units. GlobalTIS is used through your web browser and requires a compatible version of Java to be able to work correctly. The system requires a hand-held, programmable diagnostic tool, Tech2, in order to communicate with the vehicle.
 
 GlobalTIS can be used to download new software to your PCMCIA card used in the Tech2, the process takes around 15 minutes for a 32MB card.
 
