@@ -3,7 +3,7 @@ sort: 100
 ---
 # Service light reset
 
- ## Holden Astra - Early
+## Holden Astra - Early
 
 * Press and hold trip reset button
 * Switch ignition ON

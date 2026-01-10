@@ -13,7 +13,7 @@ The Tech2 Card Writer is an easy to use, yet relatively slow processing, applica
 *   COM port, this can be a physical DB9 or a USB to Serial cable, on a desktop/laptop computer.
 *   Microsoft Windows
 *   [Tech2 Card Writer](/assets/tools/alexre_cardwriter.zip) from [AlexRE.RU](http://alexre.ru/galery/upload/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B/Tech2/cardwriter.zip).
-*   [PCMCIA card bin files](/content/tech2_pcmcia/available_.bin-files/) for Tech2
+*   [PCMCIA card bin files](/content/tech2_pcmcia/available_tech2_.bin-files/) for Tech2
 
 ## Preparations
 
@@ -34,7 +34,7 @@ Select the designated COM port which connects to the Tech2.
 
 ![](write_card_writer_02.webp)
 
-Select the binary file you wish to write to the PCMCIA card insterted into the Tech2.
+Select the binary file you wish to write to the PCMCIA card inserted into the Tech2.
 
 ![](write_card_writer_03.webp)
 

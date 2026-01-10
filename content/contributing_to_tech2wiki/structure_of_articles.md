@@ -30,7 +30,7 @@ sort: 400
 
 ## Search functionality
 
-Creating seperate .MD per topic results in a better search result as this is based on the .md files. 
+Creating separate .MD per topic results in a better search result as this is based on the .md files. 
 
 ## Article index
 

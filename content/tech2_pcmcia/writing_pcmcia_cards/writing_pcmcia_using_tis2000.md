@@ -3,7 +3,7 @@ sort: 200
 ---
 # Writing PCMCIA using TIS2000
 
-TIS2000 is a computer-based system used for reprogramming software as well as troubleshouting and diagnostics on vehicle control units. The system requires a hand-held, programmable diagnostic tool, Tech2, in order to communicate with the vehicle.
+TIS2000 is a computer-based system used for reprogramming software as well as troubleshooting and diagnostics on vehicle control units. The system requires a hand-held, programmable diagnostic tool, Tech2, in order to communicate with the vehicle.
 
 Source: [SAAB WIS Online](https://saabwisonline.com/c3/9-5/2000/0-general/tis-2000/technical-description-tis-2000/tis-2000-technical-information-system-2000/)
 
